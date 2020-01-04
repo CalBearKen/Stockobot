@@ -19,3 +19,6 @@ To start script:
 2. python3 Stockobot.py
 
 
+
+future builds:
+-Train autoencoder model using fundamental data to determine variables that predict stock potential
