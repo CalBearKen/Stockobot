@@ -16,7 +16,7 @@ build02(in progress): stockobot is able to recommend time to buy/sell certain st
 
 To start script:
 1. Bash/cmd/terminal at Stockobot directory
-2. python3 Stockobot.py
+2. python3 Stockobot0.2.py
 
 
 
