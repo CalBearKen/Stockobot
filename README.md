@@ -3,10 +3,10 @@ Simple commission-free stock trading robot using Robinhood API
 
 implementation language: Python
 
-build01: Not much yet, outputs graphs of stocks on watchlist
+build0.1: Not much yet, outputs graphs of stocks on watchlist
 
 
-build02(in progress): stockobot is able to recommend time to buy/sell certain stock on watchlist if conditions are met at specific time
+build0.2(in progress): stockobot is able to recommend time to buy/sell certain stock on watchlist if conditions are met at specific time
 
 
 
